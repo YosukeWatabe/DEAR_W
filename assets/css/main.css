@@ -2443,3 +2443,5 @@ input, select, textarea {
 					}
 
 	}
+
+	#top { background:url(../../images/sky.jpg) center no-repeat; background-size: cover;}
